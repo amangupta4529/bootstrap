@@ -17,3 +17,16 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+}
+.bg-warning{
+    color: white;
+}
+.tab-content{
+border-bottom: 1px rgb(228, 222, 222) solid;
+border-left: 1px rgb(228, 222, 222) solid;
+border-right: 1px rgb(228, 222, 222) solid;
+
+}
